@@ -109,3 +109,7 @@ else
     copy(tmp,src)
   end
 end
+ local thavva = ""
+ if (thavva=="") then
+ print("thavva is great")
+ end
